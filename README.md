@@ -163,6 +163,7 @@ This solution surpasses existing tools in transparency, adaptability, and operat
 ## System Architecture
 
 ### Detection Pipeline
+please press (ctrl - )X2 for proper architectur preview 
 
 ```
 User Browses Page → Extension Extracts Content → Hybrid Analysis Pipeline
@@ -311,9 +312,7 @@ The project contains two main applications:
    - Educational module with four phases
    - Interactive learning content
    - Run: `cd next_steps && npm install && npm run dev`
-
-3. **PPT module** (`/P.I.S.H`)
-   - It is a PPT module with all products download 
+ 
 
 ## Project Structure
 
@@ -357,7 +356,7 @@ The project contains two main applications:
 │   └── README.md
 └── P.I.S.H/
     └──index.html
-       logo.png
+    |       logo.png
     └── products/
         ├── P.I.S.H_Call_Phishing_Detection_.macro
         └── P.I.S.H._Whatsapp-SMS_Phishing_Detection_.macro
