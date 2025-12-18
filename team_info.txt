@@ -1,0 +1,164 @@
+========================================
+    SMART INDIA HACKATHON 2025
+    TEAM INFORMATION
+========================================
+
+Team Name: VisionCraft.
+
+Team PSID: 72234
+
+Institute: Somaiya Vidyavihar University
+
+Project Title: P.I.S.H - Phishing Intelligence and Security Hub
+
+Problem Statement: Real-Time AI/ML-Based Phishing Detection and Prevention System
+
+========================================
+TEAM MEMBERS
+========================================
+
+1. Manas Mahendra Bhole – Team Lead & Researcher
+   Role:  coordinated team execution and managed deliverables.
+
+2. Ayush Sachin Goyal – Lead ML Engineer; 
+   Role: developed browser extension, trained models, created macros, and handled the database.
+
+3. Varun Jignesh Shah – Lead Full-Stack Developer 
+   Role: designed UI/UX and ensured frontend–backend integration.
+
+4. Meet Bhavesh Jethwa – ML Engineer
+   Role: trained models, created posters, and performed testing and debugging.
+
+5. Krrish Abhijeet Shah – ML Engineer 
+   Role: trained models, authored documentation, and developed market strategy and business model.
+
+6. Swathi Senthil Kumar – ML Engineer 
+   Role: trained models, developed macros, led innovation, and suggested new features.
+
+
+========================================
+GITHUB REPOSITORY
+========================================
+
+GitHub Repository Link: https://github.com/VarunS27/72234_VisionCraft._final
+
+Branch: main
+
+========================================
+PROJECT DETAILS
+========================================
+
+Project Type: Enterprise-Grade Browser Extension + Web Application + Mobile Dashboard
+
+Core Technologies:
+- AI/ML: DistilBERT, Graph Neural Networks, Efficient-B0 CNN, Federated Learning
+- Frontend: React 19.2.0, Vite 7.2.4, Tailwind CSS 4.1.17, Framer Motion
+- Browser Extension: Chrome/Firefox APIs, VirusTotal Integration
+- Mobile: Cross-platform dashboard, WhatsApp/SMS analyzer, Call analysis
+- Database: Backend-free structured storage with federated replication
+- Languages: JavaScript (ES6+), Python, JSX, CSS3, HTML5
+
+Key Features:
+- Hybrid AI detection pipeline (DistilBERT + GNN + Efficient-B0)
+- Multi-vector coverage (Email, Web, SMS, WhatsApp, Voice Calls)
+- Autonomous content extraction (Text, Links, QR codes, DOM layouts)
+- Real-time threat scoring with VirusTotal verification
+- Personalized AI-crafted phishing simulations
+- Administrative suite with forensic search and legal reports
+- Device isolation and quarantine workflows
+
+Development Period: December 2025
+SIH Edition: 2025
+Deployment Status: Market-ready prototype with enterprise architecture
+
+========================================
+CONTACT INFORMATION
+========================================
+
+Primary Contact: Manas Bhole
+Email: manas.bhole@somaiya.edu
+Phone: +91 744773411
+
+Mentor: Sonali Wankhede
+Mentor Email: sonali.w@somaiya.edu
+
+========================================
+SUBMISSION DATE
+========================================
+
+Final Submission: December 17, 2025
+
+========================================
+NOTES
+========================================
+
+1. All project files are included in this submission
+2. Dependencies are listed in package.json files
+3. Installation instructions are in README.md
+4. Project has been tested on Windows environment
+5. Both applications (portfolio and next_steps) are fully functional
+
+========================================
+PROJECT MODULES
+========================================
+
+1. Browser Extension (Core Detection Engine)
+   - Autonomous content extraction from web pages
+   - Hybrid AI detection pipeline (DistilBERT + GNN + Efficient-B0)
+   - Real-time threat scoring and page blocking
+   - Secure local authentication
+   - Quarantine workflow for password resets
+   - Tamper-resistant forensic logging
+
+2. Portfolio Website (/portfolio)
+   - User authentication (Login/Signup) with secure session management
+   - Real-time dashboard for threat monitoring and analytics
+   - Administrative suite with user management and forensics
+   - Data visualization and threat intelligence
+   - Legal report generation and cyber crime reporting integration
+   - Responsive design with Matrix-style UI
+
+3. Educational Platform (/next_steps)
+   - Phase 1: Introduction to Phishing Threats
+   - Phase 2: Types of Phishing Attacks (Email, SMS, Voice, Web)
+   - Phase 3: Detection Techniques and AI Analysis
+   - Phase 4: Prevention Strategies and Best Practices
+   - Personalized AI-crafted phishing simulations
+   - Dynamic risk scoring based on user interactions
+   - Vulnerability assessment and progress tracking
+
+4. Mobile Dashboard Integration
+   - Synchronized multi-device protection
+   - WhatsApp/SMS analyzer (consent-based message evaluation)
+   - Call analysis tool (vishing detection via metadata)
+   - Compromised device isolation and quarantine
+   - Forensic summaries and evidence transmission
+   - Cross-platform data synchronization
+
+5. P.I.S.H Detection Products (/P.I.S.H)
+   - Call Phishing Detection Macro: Voice call metadata analysis
+   - WhatsApp/SMS Phishing Detection Macro: Message content analyzer
+   - QR Code scanner and analyzer
+   - Link and attachment verification via VirusTotal
+
+6. Database Infrastructure
+   - Backend-free, low-latency structured storage
+   - User credentials and vulnerability profiles
+   - Risk scores and honeypot markers
+   - Indexed forensic evidence with tamper-resistant logging
+   - Federated replication for performance optimization
+
+========================================
+TECHNICAL HIGHLIGHTS
+========================================
+
+- High Accuracy: Multi-modal AI detection surpassing text-only systems
+- Low Latency: Client-side processing without backend dependencies
+- Strong Personalization: User-specific vulnerability training
+- Streamlined Deployment: Browser extension + mobile dashboard
+- Comprehensive Coverage: Email, Web, SMS, WhatsApp, Voice calls
+- Market-Ready: Enterprise-grade architecture with scalable components
+
+========================================
+
+END OF TEAM INFORMATION FILE
